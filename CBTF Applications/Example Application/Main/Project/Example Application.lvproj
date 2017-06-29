@@ -219,6 +219,7 @@
 				<Item Name="NI_Data Type.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/Data Type/NI_Data Type.lvlib"/>
 				<Item Name="Variable Engine.lvlib" Type="Library" URL="/&lt;vilib&gt;/TSS/ACRObat Test Framework/Classes/Variable Engine/Variable Engine.lvlib"/>
 				<Item Name="NLog.dll" Type="Document" URL="/&lt;vilib&gt;/TSS/ACRObat Test Framework/Utilities/Logger/NLog/Library/NLog.dll"/>
+				<Item Name="5120e14c03d0593c" Type="VI" URL="/&lt;vilib&gt;/TSS/ACRObat Test Framework/Utilities/Logger/NLog/Library/5120e14c03d0593c"/>
 			</Item>
 			<Item Name="mscorlib" Type="VI" URL="mscorlib">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
