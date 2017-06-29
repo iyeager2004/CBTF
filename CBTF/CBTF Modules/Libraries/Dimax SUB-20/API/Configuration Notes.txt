@@ -1,0 +1,9 @@
+1. Install the appropriate driver (only if intending to connect a device to your system)
+2. Install the SDK. This is required as it installs the SUB_20.dll in System32.
+3. Follow the instructions in the Readme file to "install" the API and register the .NET assembly.The SUB-20 driver in TFS will look for the SUB-20 VIs here:
+
+C:\Program Files (x86)\National Instruments\LabVIEW 2015\vi.lib\addons\SUB20 v1.2 LV2013+
+
+4. If LabView crashes when attempting to use the API the constructors may need to be updated to point to the correct dll. Follow instructions here:
+
+http://www.xdimax.net/forum/viewtopic.php?f=2&t=543
